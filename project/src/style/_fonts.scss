@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800&display=swap");
+
+@font-face {
+  font-family: "Ubuntu regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/ubuntu-regular-400.woff") format("woff"),
+    url("fonts/ubuntu-regular-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 500;
+  font-family: "Ubuntu medium";
+  src: url("fonts/ubuntu-medium.woff") format("woff"),
+    url("fonts/ubuntu-medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Ubuntu bold";
+  src: url("fonts/ubuntu-bold.woff") format("woff"),
+    url("fonts/ubuntu-bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 300;
+  font-family: "Ubuntu light";
+  src: url("fonts/ubuntu-light.woff") format("woff"),
+    url("fonts/ubuntu-light.woff2") format("woff2");
+}
